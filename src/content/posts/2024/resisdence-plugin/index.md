@@ -1,8 +1,7 @@
 ---
 title: "有了經濟要開始賣房啦：Residence建立一個屬於自己的家園"
 published: 2024-08-29
-categories: 
-  - "mc-server-guide"
+category: Minecraft開服之路
 tags: 
   - "minecraft"
   - "residence"

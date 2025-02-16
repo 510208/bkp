@@ -1,8 +1,7 @@
 ---
 title: "Minecraft 開服之路：概念與安裝步驟"
 published: 2024-05-01
-categories: 
-  - "mc-server-guide"
+category: Minecraft開服之路
 tags: 
   - "minecraft"
   - "伺服器"

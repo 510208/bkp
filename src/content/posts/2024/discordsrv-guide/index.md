@@ -1,8 +1,7 @@
 ---
 title: "雲玩家的最佳首選－DiscordSRV聊天同步插件"
 published: 2024-06-01
-categories: 
-  - "mc-server-guide"
+category: Minecraft開服之路
 tags: 
   - "dc"
   - "dc群"

@@ -1,0 +1,32 @@
+<script src="https://giscus.app/client.js"
+    data-repo="510208/giscus"
+    data-repo-id="R_kgDON6NyXg"
+    data-category="Announcements"
+    data-category-id="DIC_kwDON6NyXs4CnAO6"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="noborder_dark"
+    data-lang="zh-TW"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+</script>
+
+<script is:inline>
+    function updateGiscusTheme() {
+        const theme = document.documentElement.classList.contains('dark') ? 'noborder_dark' : 'noborder_light'
+        const iframe = document.querySelector('iframe.giscus-frame')
+        if (!iframe) return
+        iframe.contentWindow.postMessage({ giscus: { setConfig: { theme } } }, 'https://giscus.app')
+    }
+
+    const observer = new MutationObserver(updateGiscusTheme)
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] })
+
+    window.onload = () => {
+        updateGiscusTheme()
+    }
+</script>

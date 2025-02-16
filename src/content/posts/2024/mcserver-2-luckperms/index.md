@@ -1,8 +1,7 @@
 ---
 title: "Minecraft開服之路：最初的開始 - 權限設定插件"
 published: 2024-05-02
-categories: 
-  - "mc-server-guide"
+category: Minecraft開服之路
 tags: 
   - "luckperms"
   - "minecraft"

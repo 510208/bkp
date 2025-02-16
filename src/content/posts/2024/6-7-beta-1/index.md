@@ -1,8 +1,7 @@
 ---
 title: "7大亮點搶先看！立即體驗全新WordPress 6.7 Beta"
 published: 2024-10-03
-categories: 
-  - "wpsite-guide"
+category: WordPress建站筆記
 image: "/images/6-7-beta-1/samhackerblog_6.7-beta-1_cover.png"
 ---
 

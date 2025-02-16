@@ -1,8 +1,7 @@
 ---
 title: "製作一張好看的文章精選圖片，讓你的文章更多觸及率"
 published: 2024-05-05
-categories: 
-  - "wpsite-guide"
+category: WordPress建站筆記
 tags: 
   - "seo"
   - "wp"

@@ -1,8 +1,7 @@
 ---
 title: "五分鐘打造屬於你的隨身Minecraft，隨時隨地即插即用！"
 published: 2024-09-17
-categories: 
-  - "minecraft-tips"
+category: Minecraft研究筆記
 tags: 
   - "minecraft"
   - "免安裝"

@@ -1,8 +1,7 @@
 ---
 title: "Blocksy 主題好用嗎？我的真實使用心得與優缺點分析"
 published: 2024-10-06
-categories: 
-  - "wpsite-guide"
+category: WordPress建站筆記
 tags: 
   - "blocksy"
   - "wp"

@@ -1,8 +1,7 @@
 ---
 title: "一小時快速入門！用人話解釋的CSS基礎知識"
 published: 2024-12-08
-categories: 
-  - "pc-something"
+category: 程式語言手札
 tags: 
   - "css"
   - "wp"

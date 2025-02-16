@@ -1,8 +1,7 @@
 ---
 title: "F12 中的秘密：網頁開發者必學的除錯工具技巧"
 published: 2024-06-20
-categories: 
-  - "wpsite-guide"
+category: WordPress建站筆記
 tags: 
   - "f12"
   - "wp"

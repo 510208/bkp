@@ -1,8 +1,7 @@
 ---
 title: "WordPress外掛大哉問：每天都在看，但每天都不認識它！"
 published: 2024-05-04
-categories: 
-  - "wpsite-guide"
+category: WordPress建站筆記
 tags: 
   - "wp"
   - "介紹"

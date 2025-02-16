@@ -1,8 +1,7 @@
 ---
 title: "伺服器順暢的基本常識：解讀TPS與MSPT"
 published: 2024-05-23
-categories: 
-  - "mc-server-guide"
+category: Minecraft開服之路
 tags: 
   - "minecraft"
   - "伺服器"
