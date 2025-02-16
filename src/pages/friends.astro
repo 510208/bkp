@@ -3,26 +3,27 @@
 import MainGridLayout from '../layouts/MainGridLayout.astro'
 
 import { getEntry } from 'astro:content'
-import { i18n } from '../i18n/translation'
-import I18nKey from '../i18n/i18nKey'
 import Markdown from '@components/misc/Markdown.astro'
+import I18nKey from '../i18n/i18nKey'
+import { i18n } from '../i18n/translation'
 
 const friendsPost = await getEntry('spec', 'friends')
 const { Content } = await friendsPost.render()
 const items = [
-  {  
-    title: 'Astro',  
-    imgurl: '/friends/astro-logo.svg',  
-    desc: 'The web framework for content-driven websites. ⭐️ Star to support our work!',  
-    siteurl: 'https://github.com/withastro/astro',  
-    tags: ['框架'],  
+  {
+    title: 'Astro',
+    imgurl: '/friends/astro-logo.svg',
+    desc: 'The web framework for content-driven websites. ⭐️ Star to support our work!',
+    siteurl: 'https://github.com/withastro/astro',
+    tags: ['框架'],
   },
-    {  
-    title: '雲羽生存服',  
-    imgurl: 'https://blog-1302893975.cos.ap-beijing.myqcloud.com/pic/avatar.webp?imageSlim',  
-    desc: '理解以真实为本，但真实本身并不会自动呈现',  
-    siteurl: 'https://www.lapis.cafe',  
-    tags: ['博客'],  
+  {
+    title: '雲羽生存服',
+    imgurl:
+      'https://blog-1302893975.cos.ap-beijing.myqcloud.com/pic/avatar.webp?imageSlim',
+    desc: '理解以真实为本，但真实本身并不会自动呈现',
+    siteurl: 'https://www.lapis.cafe',
+    tags: ['博客'],
   },
 ]
 ---

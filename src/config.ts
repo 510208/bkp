@@ -73,6 +73,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/510208/',
     },
+    {
+      name: 'Bento.me',
+      icon: 'simple-icons:bento',
+      url: 'https://bento.me/510208',
+    }
   ],
 }
 

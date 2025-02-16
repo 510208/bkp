@@ -35,7 +35,7 @@ image: "/images/make-featured-image/製作一張好看的文章精選圖片-讓�
 
 <figure>
 
-[![](/images/make-featured-image/WordPress外掛大哉問-每天都在看，但每天都不認識它！-1024x536.png)](http://samhacker.is-from.tw/wp-content/uploads/2024/05/WordPress外掛大哉問-每天都在看，但每天都不認識它！.png)
+![](/images/make-featured-image/WordPress外掛大哉問-每天都在看，但每天都不認識它！-1.png)
 
 <figcaption>
 
